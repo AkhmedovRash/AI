@@ -1,4 +1,4 @@
-# AI
+# text-to-image
 '''
 This script:
 - Optionally loads and preprocesses a specific COCO category with bounding boxes and captions.
